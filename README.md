@@ -3,7 +3,7 @@ Hi my name is Mohamadreza Alirezaei.<br>I'm 22 years old.<br>I'm intrested in ba
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m.reza#4748) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mreza_alirezaei) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/m.reza#4748) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mreza_alirezaei) <br>
 Email: alirezaei.mohamadreza@gmail.com
 
 # 💻 Tech Stack:
