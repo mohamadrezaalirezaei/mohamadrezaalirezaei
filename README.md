@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Mohamadreza Alirezaei.<br>I'm 22 years old.<br>I'm intrested in back-end development via node js.<br>graduated IT student (bachelor's degree).
+Hi my name is Mohamadreza Alirezaei.<br>I'm 22 years old.<br>I'm intrested in back-end development via node js.<br>Graduated as an IT student (bachelor's degree).
 
 
 ## 🌐 Socials:
